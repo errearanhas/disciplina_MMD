@@ -1,2 +1,2 @@
 # disciplina_MMD
-Repositório para registro de arquivos/material/trabalhos de MMD do mestrado Emap.
+Repositório para registro de arquivos/material/trabalhos de MMD do mestrado da Emap.
